@@ -5,7 +5,7 @@ namespace TestProject
 {
     class Program
     {
-        static void Main(string[] args) {
+    public  static void Main(string[] args) {
                 
         //VARIABLES
 
@@ -66,7 +66,41 @@ namespace TestProject
         /**********************************/
         // LOOPS
 
-        
+        // 1. FOR LOOP
+
+        // List<string> collection = new List<string>(){
+        //     "a", "b", "c", "d", "e", "f"
+        // };
+        // for (int i = 0; i < collection.Count; i++)
+        // {
+        //    // System.Diagnostics.Debug.WriteLine(collection[i ]);
+        //    Console.WriteLine(collection[i]);
+        // }
+
+        // 2. WHILE LOOP
+
+        //  int i = 3;
+        //  while (i > 0 )
+        //  {
+        //     Console.WriteLine("Loading");
+        //     i--;
+        //  }
+
+         /******************************************/
+        // COMMENT
+
+
+
+
+        PrintMessage("Hello World");
+
+
+
+
+    } 
+
+    static void PrintMessage(string message){
+        Console.WriteLine(message);
     }
   }
 }
