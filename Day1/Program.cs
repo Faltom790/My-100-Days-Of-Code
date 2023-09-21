@@ -38,7 +38,7 @@ namespace TestProject
 
                         // CONDITIONAL STATEMENTS
 
-      
+      /*
        Console.Write("Please enter your age: ");
        int age = Convert.ToInt32(Console.ReadLine());
 
@@ -57,12 +57,16 @@ namespace TestProject
                }                               
        else
        {
-           Console.WriteLine("You must be 17+ to sign up");
-            
-
-
-
+           Console.WriteLine("You must be 17+ to sign up");    
         }
+
+        */
+
+
+        /**********************************/
+        // LOOPS
+
+        
     }
   }
 }
