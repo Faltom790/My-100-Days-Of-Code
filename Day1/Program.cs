@@ -92,11 +92,9 @@ namespace TestProject
 
 
 
+        //METHOD IN C#
 
         PrintMessage("Hello World");
-
-
-
 
     } 
 
