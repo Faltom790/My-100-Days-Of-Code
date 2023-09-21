@@ -1,5 +1,7 @@
 # Day 1
 
+#100DaysOfCode
+
 
 Day [1] - [21st September, 2023]
 
