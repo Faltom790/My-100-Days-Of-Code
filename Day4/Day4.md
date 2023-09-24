@@ -1,9 +1,9 @@
-# Day 3
+# Day 4
 
 #100DaysOfCode
 
 
-Day [3] - [23rd September, 2023]
+Day [4] - [24th September, 2023]
 Today's Progress:
 I learnt about the C# data types, Numbers, Math Class, Strings, Checking String equality, @ and $ with strings.
 
