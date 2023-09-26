@@ -16,7 +16,7 @@ namespace TestProject
             //String Escape Sequences
 
             // " \ " symbol
-            //   Console.WriteLine("Bobby said \"Go write some code\"");
+            //Console.WriteLine("Bobby said \"Go write some code\"");
 
             // "\\"
             //Console.WriteLine("a\\b");
@@ -45,8 +45,9 @@ namespace TestProject
             //  string call = stringBuilder.ToString();
             //  Console.WriteLine(call);
 
-             StringBuilder sb = new StringBuilder("I am a boy");   
+            // StringBuilder sb = new StringBuilder("I am a boy");   
              
+
         }
     }
 }
